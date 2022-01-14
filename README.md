@@ -1,14 +1,8 @@
 ### Hi there 👋
 
-- 🌱 I’m currently learning gForth
--                           ARM
--                           MLR
+- 🌱 I’m currently learning gForth, ARM, MLR
                           
-- 🤔 I’m looking for help with Web
--                              OS
--                              SOLID
--                              OOP
--                              ALL COURCES BMSTU
+- 🤔 I’m looking for help with Web, OS, SOLID, OOP, ALL COURCES BMSTU
 
 - ⚡ Fun fact: I hate frontend techs
 <!--
