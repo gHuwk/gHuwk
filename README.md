@@ -1,10 +1,12 @@
 ### Hi there 👋
 
-- 🌱 I’m currently learning gForth, ARM, MLR
-                          
-- 🤔 I’m looking for help with Web, OS, SOLID, OOP, ALL COURCES BMSTU
+- 🌱 I’m currently learning gForth, Haskell, LISP, FPGA, OpenCL
+
+- 🔭 I’m currently working on bachelor diploma 
 
 - ⚡ Fun fact: I hate frontend techs
+
+
 <!--
 **gHuwk/gHuwk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
