@@ -1,10 +1,11 @@
-### Hi there 👋
+### Приветствую на своей страничке...
+![image](https://user-images.githubusercontent.com/24459823/166940705-ff3a931f-fd0f-4ad9-bd3b-f87713918753.png)
 
-- 🌱 I’m currently learning gForth, Haskell, LISP, FPGA, OpenCL
 
-- 🔭 I’m currently working on bachelor diploma 
+- 🌱 Сейчас я очень занят изучением gForth, Haskell, LISP, FPGA, OpenCL
 
-- ⚡ Fun fact: I hate frontend techs
+- 🔭 Неистово пишу диплом баки
+
 
 
 <!--
