@@ -10,7 +10,7 @@
 
 - ⚡ Без понятия, куда ведут мои исследования.
 
-
+![image](https://raw.githubusercontent.com/gHuwk/pics/master/white-black-box-2.png)
 
 <!--
 **gHuwk/gHuwk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
